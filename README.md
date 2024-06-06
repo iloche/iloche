@@ -3,10 +3,9 @@
 # 🍄 Oï, moi c'est Iloche !
 👩🏻‍💻 Développeuse Front-End Junior partageant mon parcours et mes apprentissages<br/>
 🌷 Compétences en HTML, CSS et JavaScript<br/>
-✨ Création d'un jeu de quiz en ligne sur la culture générale<br/>
 🌸 Animée par l'innovation et le sens de l'esthétique, je m'applique à concevoir des interfaces élégantes et intuitives<br/>
 💡 Engageante et créative, j'aime transformer des idées en expériences utilisateur captivantes<br/>
-💭 En ce moment, j'apprends la migration de projets JavaScript vers React !
+💭 En ce moment, je créé un jeu de quiz en ligne sur la culture général !
 
 
 # 💻 Tech Stack:
