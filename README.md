@@ -5,7 +5,7 @@
 🌷 Compétences en HTML, CSS et JavaScript<br/>
 🌸 Animée par l'innovation et le sens de l'esthétique, je m'applique à concevoir des interfaces élégantes et intuitives<br/>
 💡 Engageante et créative, j'aime transformer des idées en expériences utilisateur captivantes<br/>
-💭 En ce moment, je créé un jeu de quiz en ligne sur la culture général !
+💭 Récemment, j'ai créé un jeu de quiz en ligne sur la culture général !
 
 
 # 💻 Tech Stack:
